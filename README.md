@@ -1,1 +1,2 @@
-# learning-git
+# resume .. 
+experiences -ct ..4 months 
